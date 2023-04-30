@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Course-Goals/static/css/main.61387fd8.css",
+    "main.js": "/Course-Goals/static/js/main.d06e3f91.js",
+    "index.html": "/Course-Goals/index.html",
+    "main.61387fd8.css.map": "/Course-Goals/static/css/main.61387fd8.css.map",
+    "main.d06e3f91.js.map": "/Course-Goals/static/js/main.d06e3f91.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.61387fd8.css",
+    "static/js/main.d06e3f91.js"
+  ]
+}

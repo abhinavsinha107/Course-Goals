@@ -1,8 +1,8 @@
 {
   "name": "course-goals",
   "version": "0.1.0",
+  "homepage": "https://abhinavsinha107.github.io/Course-Goals",
   "private": true,
-  "homepage": "http://{github-abhinavsinha107}.github.io/{Course-Goals}",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.6",
     "@testing-library/react": "^11.2.2",
